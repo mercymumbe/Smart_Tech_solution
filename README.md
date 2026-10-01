@@ -1,6 +1,6 @@
 # Smart Solution
 
-This is a website for ** Smart Solution ** a start up tech company located in Nairobi Kenya.
+This is a website for **Smart Solution** a start up tech company located in Nairobi Kenya.
 This company provides reliable and innovative IT solutions to SMEs businesses.
 
 ## Project Description
