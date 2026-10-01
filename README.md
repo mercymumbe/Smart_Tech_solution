@@ -1,6 +1,7 @@
 # Smart Solution
 This is a website for **Smart Solution** a start up tech company located in Nairobi Kenya.
 This company provides reliable and innovative IT solutions to SMEs businesses.
+
 **live link**:https://github.com/mercymumbe/Smart_Tech_solution.git
 
 ## Project Description
