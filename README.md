@@ -34,8 +34,7 @@ The main goal of this company is to create a professional online presence for Sm
 -AI
 
 ## Project Structure
-
-![screenshort of project structure](<Screenshort.png>)
+![image of project structure](images/screenshort.png)
 
 ## Setup Instructions
 
